@@ -1,0 +1,26 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Rider / VS / other IDE
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Built artifacts
+*.apk
+*.aab
+*.exe
+*.app
+*.ipa
