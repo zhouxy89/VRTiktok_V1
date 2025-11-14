@@ -1134,7 +1134,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Url
-      value: file:///Users/xiaoyanzhou/My project (10)/Assets/StreamingAssets/11_Accurate_BananaBerries_TikTokVideo.mp4
+      value: file:///Users/xiaoyanzhou/VRTiktok_V1/Assets/StreamingAssets/11_Accurate_BananaBerries_TikTokVideo.mp4
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Looping
@@ -3219,7 +3219,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Url
-      value: file:///Users/xiaoyanzhou/My project (10)/Assets/StreamingAssets/12_Accurate_GunDeaths_TikTokVideo.mp4
+      value: file:///Users/xiaoyanzhou/VRTiktok_V1/Assets/StreamingAssets/12_Accurate_GunDeaths_TikTokVideo.mp4
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Looping
@@ -9636,7 +9636,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Url
-      value: file:///Users/xiaoyanzhou/My project (10)/Assets/StreamingAssets/01_Misinfo_YellowStoneAnimals_Video.mp4
+      value: file:///Users/xiaoyanzhou/VRTiktok_V1/Assets/StreamingAssets/01_Misinfo_YellowStoneAnimals_Video.mp4
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Looping
@@ -16530,7 +16530,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Url
-      value: file:///Users/xiaoyanzhou/My project (10)/Assets/StreamingAssets/09_Accurate_Parmesan.mp4
+      value: file:///Users/xiaoyanzhou/VRTiktok_V1/Assets/StreamingAssets/09_Accurate_Parmesan.mp4
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Looping
@@ -16880,7 +16880,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Url
-      value: file:///Users/xiaoyanzhou/My project (10)/Assets/StreamingAssets/04_Misinfo_ICEBodies_TikTokVideo.mp4
+      value: file:///Users/xiaoyanzhou/VRTiktok_V1/Assets/StreamingAssets/04_Misinfo_ICEBodies_TikTokVideo.mp4
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Looping
@@ -27868,7 +27868,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Url
-      value: file:///Users/xiaoyanzhou/My project (10)/Assets/StreamingAssets/07_Accurate_BacteriaHuman_TikTokVideo.mp4
+      value: file:///Users/xiaoyanzhou/VRTiktok_V1/Assets/StreamingAssets/07_Accurate_BacteriaHuman_TikTokVideo.mp4
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Looping
@@ -33554,7 +33554,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Url
-      value: file:///Users/xiaoyanzhou/My project (10)/Assets/StreamingAssets/08_Accurate_LegoMRI_TikTokVideo.mp4
+      value: file:///Users/xiaoyanzhou/VRTiktok_V1/Assets/StreamingAssets/08_Accurate_LegoMRI_TikTokVideo.mp4
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Looping
@@ -39724,7 +39724,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Url
-      value: file:///Users/xiaoyanzhou/My project (10)/Assets/StreamingAssets/10_Accurate_ParkSweden_TikTokVideo.mp4
+      value: file:///Users/xiaoyanzhou/VRTiktok_V1/Assets/StreamingAssets/10_Accurate_ParkSweden_TikTokVideo.mp4
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Looping
@@ -41393,7 +41393,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Url
-      value: file:///Users/xiaoyanzhou/My project (10)/Assets/StreamingAssets/02_Misinfo_RNAChicken_TikTokVideo.mp4
+      value: file:///Users/xiaoyanzhou/VRTiktok_V1/Assets/StreamingAssets/02_Misinfo_RNAChicken_TikTokVideo.mp4
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Looping
@@ -41800,7 +41800,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Url
-      value: file:///Users/xiaoyanzhou/My project (10)/Assets/StreamingAssets/06_Misinfo_SimpsonsPope_TikTokVideo.mp4
+      value: file:///Users/xiaoyanzhou/VRTiktok_V1/Assets/StreamingAssets/06_Misinfo_SimpsonsPope_TikTokVideo.mp4
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Looping
@@ -42809,7 +42809,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Url
-      value: file:///Users/xiaoyanzhou/My project (10)/Assets/StreamingAssets/03_Misinfo_Trump4days_TikTokVideo.mp4
+      value: file:///Users/xiaoyanzhou/VRTiktok_V1/Assets/StreamingAssets/03_Misinfo_Trump4days_TikTokVideo.mp4
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Looping
@@ -45074,7 +45074,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Url
-      value: file:///Users/xiaoyanzhou/My project (10)/Assets/StreamingAssets/05_Misinfo_AppleStarlink_TikTokVideo.mp4
+      value: file:///Users/xiaoyanzhou/VRTiktok_V1/Assets/StreamingAssets/05_Misinfo_AppleStarlink_TikTokVideo.mp4
       objectReference: {fileID: 0}
     - target: {fileID: 4415745982179208543, guid: dc067c577ec1b854684d789b6e727cc0, type: 3}
       propertyPath: m_Looping

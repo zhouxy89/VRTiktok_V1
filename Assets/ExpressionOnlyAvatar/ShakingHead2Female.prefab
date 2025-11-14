@@ -2742,7 +2742,7 @@ GameObject:
   - component: {fileID: 4358378729478310858}
   - component: {fileID: 5661550856067247130}
   m_Layer: 9
-  m_Name: NoddingHead2Female
+  m_Name: ShakingHead2Female
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
