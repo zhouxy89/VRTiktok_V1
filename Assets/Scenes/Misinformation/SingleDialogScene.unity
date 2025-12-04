@@ -16591,7 +16591,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   manager: {fileID: 1255426467}
-  conversation: {fileID: 11400000, guid: 1e6aa0c5f03164daca07f56e70cf9ceb, type: 2}
+  conversation: {fileID: 11400000, guid: 02ba4217f187c411abf6f0ac7d1da8b4, type: 2}
   videoPlayer: {fileID: 1991225781}
   playOnce: 1
 --- !u!1 &713075789
